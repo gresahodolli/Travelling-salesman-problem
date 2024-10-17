@@ -1,5 +1,3 @@
-// geneticAlgorithm.js
-
 // Haversine formula to calculate distance between two coordinates
 export const calculateDistance = (lat1, lon1, lat2, lon2) => {
     const R = 6371; // Radius of the Earth in kilometers
